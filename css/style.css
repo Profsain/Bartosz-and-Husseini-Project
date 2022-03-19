@@ -17,3 +17,12 @@ body {
 #img-caption {
   font-weight: 300;
 }
+
+@media screen and (min-width: 480px) {
+  #title {
+    font-size: 4rem;
+  }
+  #img-caption {
+    font-size: 2rem;
+  }
+}
