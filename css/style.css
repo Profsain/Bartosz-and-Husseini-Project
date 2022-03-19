@@ -4,9 +4,13 @@ body {
   background-color: rgba(204, 204, 204, 0.3);
 }
 
-#image {
+#img-div {
   width: 80%;
   margin: 0 auto;
+}
+#image {
+  display: block;
+  max-width: 100%;
 }
 
 #img-div {
