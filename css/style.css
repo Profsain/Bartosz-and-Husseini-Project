@@ -1,9 +1,19 @@
 body {
   margin: 0%;
   text-align: center;
+  background-color: rgba(204, 204, 204, 0.3);
 }
 
 #image {
   width: 80%;
   margin: 0 auto;
+}
+
+#img-div {
+  background-color: #fff;
+  padding: 0.5rem;
+}
+
+#img-caption {
+  font-weight: 300;
 }
